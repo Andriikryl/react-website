@@ -1,8 +1,10 @@
 import React from 'react'
+import '../styles/Works.css'
+
 
 const Works = () => {
   return (
-    <div>Works</div>
+    <section className='Section'>Works</section>
   )
 }
 

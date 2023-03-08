@@ -1,0 +1,5 @@
+.Section{
+    height: 100vh;
+    /* background-color: tomato; */
+    scroll-snap-align: center;
+}

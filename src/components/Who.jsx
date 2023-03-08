@@ -1,8 +1,8 @@
 import React from 'react'
-
+import '../styles/Who.css'
 const Who = () => {
   return (
-    <div>Who</div>
+    <section className='Section'>Who</section>
   )
 }
 

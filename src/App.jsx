@@ -1,5 +1,5 @@
 
-import './App.css'
+import './Container.css'
 import Contact from './components/Contact'
 import Hero from './components/Hero'
 import Who from './components/Who'
@@ -9,7 +9,7 @@ function App() {
 
 
   return (
-    <div className="App">
+    <div className="Container">
       <Hero/>
       <Who/>
       <Works/>

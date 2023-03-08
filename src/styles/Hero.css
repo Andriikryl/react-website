@@ -1,0 +1,142 @@
+
+.Header{
+    height: 100vh;
+    background-color: hsla(105, 100%, 95%, 1);
+    scroll-snap-align: center;
+    padding-block: 60px;
+    margin-block-end: 20px;
+}
+
+.container{
+    max-width: 1200px;
+    margin-inline: auto;
+    padding-inline: 25px;
+}
+
+
+.Content-box{
+    padding-block-start: 120px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.Hero-info{
+    max-width: 400px;
+}
+
+.Hero-sub-title{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 140%;
+    text-transform: uppercase;
+    color: #5CBE3A;
+    padding-block-end: 20px;
+}
+
+.Hero-main-title{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 61px;
+    line-height: 120%;
+    color: #051101;
+    padding-block-end: 20px;
+}
+
+.Hero-text{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #051101;
+    opacity: 0.7;
+    padding-block-end: 10px;
+}
+
+.Hero-text span{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    color: #5CBE3A;
+    opacity: 0.7;
+}
+
+.Hero-box-price{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    padding-block-end: 40px;
+}
+
+.Price{ 
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 31px;
+    line-height: 130%;
+    color: #5CBE3A;
+}
+
+.Price-sale{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 130%;
+    text-decoration-line: line-through;
+    color: #87D16D;
+}
+
+.Hero-img{
+    max-width: 700px;
+    transform: rotate(-10deg);
+}
+
+.stut-box{
+    display: flex;
+    gap: 68px;
+    align-items: center;
+}
+
+.stut-info-num{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 85px;
+    line-height: 120%;
+    color: #5CBE3A;
+    padding-block-end: 10px;
+}
+
+.stut-info-text{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #051101;
+    opacity: 0.7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

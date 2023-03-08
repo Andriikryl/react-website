@@ -1,0 +1,37 @@
+.nav-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-list{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.nav-item{
+    list-style: none;
+}
+
+.nav-link{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #051101;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
